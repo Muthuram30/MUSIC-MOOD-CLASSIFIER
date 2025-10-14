@@ -16,15 +16,15 @@ AuraBeat is a Python GUI application that classifies the mood of a song into **H
    ```bash
    python app.py
 ##Folder Structure
-/project_folder/
-├── app.py
-├── model.py
-├── model.pkl
-├── music_dataset/
-│   ├── happy/
-│   ├── sad/
-│   └── tender/
-└── images/
-    ├── icon1.png
-    ├── icon2.png
-    └── animation.gif
+/project_folder/<br>
+├── app.py<br>
+├── model.py<br>
+├── model.pkl<br>
+├── music_dataset/<br>
+│   ├── happy/<br>
+│   ├── sad/<br>
+│   └── tender/<br>
+└── images/<br>
+    ├── icon1.png<br>
+    ├── icon2.png<br>
+    └── animation.gif<br>
