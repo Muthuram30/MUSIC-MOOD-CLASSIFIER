@@ -12,6 +12,7 @@ AuraBeat is a Python GUI application that classifies the mood of a song into **H
 - **Probability Display:** Shows confidence for each mood category.
 
 ## How to Use
+First look the folder structure and create a music_dataset forlder with subfolders namely happy,sad,tender.<br>
 1. Launch the app:  
    ```bash
    python app.py
